@@ -33,5 +33,5 @@
     font-family: var(--fonte-principal);
     color: var(--azul);
     background: url("../img/Email.svg") no-repeat 5%;
-    padding-left: 3em;
+    padding-left: 5em;
 }
